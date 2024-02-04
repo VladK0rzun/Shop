@@ -1,5 +1,4 @@
 import ReactDOM from 'react-dom/client'
-import App from './app/layout/App.tsx'
 import './app/layout/styles.css'
 import React from 'react';
 import '@fontsource/roboto/300.css';
